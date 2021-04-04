@@ -2,6 +2,7 @@
 #### _The aim of this repository is mainly to extract keywords from medical transcription. The dataset obtained from an open medical transcription dataset._
 
 #
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H146AUD)
 #
 
 ## Preprocessing
