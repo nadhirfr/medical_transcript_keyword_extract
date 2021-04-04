@@ -19,7 +19,7 @@ Remove symbols, stopwords, empty spaces after comma, multiple spaces, etc. Basic
 
 ## Credits
 
-Dillinger uses a number of open source projects to work properly:
+We used a number of open source projects to work properly:
 
 - [Datasets] - Where the story begin!
 - [Sklearn] - The most used machine learning Framework
